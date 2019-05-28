@@ -1,7 +1,7 @@
-TypeScript Webpack Tooltipster Demo
+TypeScript Webpack Tooltipster Outside Click to Close Demo
 =======================================
 
-在link上显示tooltip
+在tooltip外click来关闭tooltipster
 
 ```
 npm install
