@@ -5,5 +5,5 @@ TypeScript Webpack Tooltipster Outside Click to Close Demo
 
 ```
 npm install
-npm run dev
+npm run demo
 ```
